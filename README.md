@@ -1,7 +1,13 @@
 # Azatbek Ismailov
 `Data Analyst/Data Scientist`
 
-Hi there! I am a data professional with 5+ years of experience, deeply passionate about exploring data and leveraging machine learning techniques to uncover valuable insights. In addition to my work as a financial data analyst, I am pursuing an MS in Computer Science in the Bay Area to enhance my technical skills. I have a curious mind and love meeting new people. I am constantly following financial news and am a huge European football fan! My tech stack includes Python, SQL, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, and Excel. Let’s connect and create something truly exceptional!
+Hi there! I'm a data professional with 5+ years of experience in product analytics, credit risk, and customer behavior modeling.
+
+I’ve built machine learning models for churn, fraud, and default risk, run A/B tests to improve product features, and created dashboards that drive better decisions. I enjoy working end-to-end — from data wrangling to modeling to delivering insights.
+
+Skilled in Python, SQL and Power BI. Currently pursuing an M.S. in Computer Science to deepen my technical expertise in data science and cloud technologies.
+
+I’m passionate about using data to solve real problems and make products smarter and more useful. Let’s connect!
 
 You can reach out to me through:
 
