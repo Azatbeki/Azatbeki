@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Azatbek Ismailov
 
-## 🧠 Data Scientist | Product Analyst | ML Enthusiast  
+## 🧠 Data Scientist  
 📍 San Francisco Bay Area | 📧 azatbek.ismailov1@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/aza-ismailov/) | [🔗 GitHub](https://github.com/Azatbeki)
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a data professional with 5+ years of experience in **product analytics**, **credit risk**, and **financial forecasting**, currently working as a **Data Scientist at Capital One**. My focus is on translating messy data into clear business impact — whether that’s by predicting churn, improving A/B test design, or building dashboards that drive decisions.
+I’m a data scientist with experience in **product analytics**, **credit risk**, and **financial forecasting**, currently working as a **Data Scientist at Capital One**. My focus is on translating messy data into clear business impact — whether that’s by predicting churn, improving A/B test design, or building dashboards that drive decisions.
 
 I'm passionate about making data accessible, actionable, and impactful — turning complex insights into stories that spark strategy.
 
@@ -15,11 +15,15 @@ I'm passionate about making data accessible, actionable, and impactful — turni
 
 ### 🔧 Tools & Technologies
 
-**Languages & ML**: Python (Pandas, NumPy, Scikit-learn, XGBoost) | SQL | PySpark  
-**Cloud Platforms**: AWS (S3, Lambda, SageMaker)  
-**Analytics**: A/B Testing | Causal Inference | LTV Modeling | Churn Prediction  
-**Visualization**: Power BI | Tableau | Seaborn | Matplotlib  
-**Data Wrangling**: APIs | ETL Pipelines | Large-scale SQL
+
+**Technical Stack:** 
+Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL), Amplitude, Tableau, Power BI, dbt, Airflow, AWS (S3, SageMaker, Lambda)
+
+**Analytics & Experimentation:** 
+A/B Testing, Funnel Analysis, KPI Development, Causal Inference, Experiment Design
+
+**Statistical Modeling & Machine Learning:**
+Churn & LTV Modeling, Logistic Regression, XGBoost
 
 ---
 
