@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Azatbek Ismailov
 
-## 🧠 Data Scientist & Analytics
+## 🧠 Data Science & Analytics
 📍 San Francisco Bay Area | 📧 azatbek.ismailov1@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/aza-ismailov/) | [🔗 GitHub](https://github.com/Azatbeki)
 
 ---
