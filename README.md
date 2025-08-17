@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Azatbek Ismailov
 
-## 🧠 Data Scientist  
+## 🧠 Data Scientist & Analytics
 📍 San Francisco Bay Area | 📧 azatbek.ismailov1@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/aza-ismailov/) | [🔗 GitHub](https://github.com/Azatbeki)
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a data scientist with experience in **product analytics**, **credit risk**, and **financial forecasting**, currently working as a **Data Scientist at Capital One**. My focus is on translating messy data into clear business impact — whether that’s by predicting churn, improving A/B test design, or building dashboards that drive decisions.
+I’m a data scientist with experience in predictive modelling and analytics, currently working as a **Data Scientist at Capital One**. My focus is on translating messy data into clear business impact — whether that’s by predicting churn, improving A/B test design, or building dashboards that drive decisions.
 
 I'm passionate about making data accessible, actionable, and impactful — turning complex insights into stories that spark strategy.
 
